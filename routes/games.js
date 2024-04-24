@@ -27,7 +27,6 @@ gamesRouter.delete(
   findGameById,
   deleteGame,
   updateGamesFile,
-  sendUpdatedGames
 );
 
 module.exports = gamesRouter;
